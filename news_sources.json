@@ -248,14 +248,6 @@
 		"country_code" : "us"	
 	},
 	{
-		"news_organization_name" : "Ars Technica",		
-		"news_homepage_url" : "https://www.arstechnica.com",
-		"news_domain" : "arstechnica.com",
-		"news_domain_type" : "primary",
-		"news_lang_code" : "eng",
-		"country_code" : "us"	
-	},
-	{
 		"news_organization_name" : "PC Magazine",		
 		"news_homepage_url" : "https://www.pcmag.com",
 		"news_domain" : "pcmag.com",
