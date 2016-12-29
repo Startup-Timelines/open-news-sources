@@ -1,0 +1,274 @@
+[
+	{
+		"news_organization_name" : "TechCrunch",		
+		"news_homepage_url" : "https://www.techcrunch.com",
+		"news_domain" : "techcrunch.com",
+		"news_domain_type": "primary",
+		"news_lang_code" : "eng",
+		"country_code" : "us"	
+	},
+	{
+		"news_organization_name" : "BetaKit",		
+		"news_homepage_url" : "https://www.betakit.com",
+		"news_domain" : "betakit.com",
+		"news_domain_type" : "primary",
+		"news_lang_code" : "eng",
+		"country_code" : "ca"	
+	},
+	{
+		"news_organization_name" : "TechVibes",		
+		"news_homepage_url" : "https://www.techvibes.com",
+		"news_domain" : "techvibes.com",
+		"news_domain_type" : "primary",
+		"news_lang_code" : "eng",
+		"country_code" : "ca"	
+	},
+	{
+		"news_organization_name" : "CNN",		
+		"news_homepage_url" : "https://www.cnn.com",
+		"news_domain" : "cnn.com",
+		"news_domain_type" : "primary",
+		"news_lang_code" : "eng",
+		"country_code" : "us"	
+	},
+	{
+		"news_organization_name" : "The Verge",		
+		"news_homepage_url" : "https://www.theverge.com",
+		"news_domain" : "theverge.com",
+		"news_domain_type" : "primary",
+		"news_lang_code" : "eng",
+		"country_code" : "us"	
+	},
+	{
+		"news_organization_name" : "Vice",		
+		"news_homepage_url" : "https://www.vice.com",
+		"news_domain" : "vice.com",
+		"news_domain_type" : "primary",
+		"news_lang_code" : "eng",
+		"country_code" : "ca"	
+	},
+	{
+		"news_organization_name" : "CBC",		
+		"news_homepage_url" : "https://www.cbc.ca",
+		"news_domain" : "cbc.ca",
+		"news_domain_type" : "primary",
+		"news_lang_code" : "eng",
+		"country_code" : "ca"	
+	},
+	{
+		"news_organization_name" : "The Next Web",		
+		"news_homepage_url" : "https://www.thenextweb.com",
+		"news_domain" : "thenextweb.com",
+		"news_domain_type" : "primary",
+		"news_lang_code" : "eng",
+		"country_code" : "us"	
+	},
+	{
+		"news_organization_name" : "Mashable",		
+		"news_homepage_url" : "https://www.mashable.com",
+		"news_domain" : "mashable.com",
+		"news_domain_type" : "primary",
+		"news_lang_code" : "eng",
+		"country_code" : "us"	
+	},
+	{
+		"news_organization_name" : "VentureBeat",		
+		"news_homepage_url" : "https://www.venturebeat.com",
+		"news_domain" : "venturebeat.com",
+		"news_domain_type" : "primary",
+		"news_lang_code" : "eng",
+		"country_code" : "us"	
+	},
+	{
+		"news_organization_name" : "ReadWriteWeb",		
+		"news_homepage_url" : "https://www.readwriteweb.com",
+		"news_domain" : "readwriteweb.com",
+		"news_domain_type" : "primary",
+		"news_lang_code" : "eng",
+		"country_code" : "us"	
+	},
+	{
+		"news_organization_name" : "GigaOM",		
+		"news_homepage_url" : "https://www.gigaom.com",
+		"news_domain" : "gigaom.com",
+		"news_domain_type" : "primary",
+		"news_lang_code" : "eng",
+		"country_code" : "us"	
+	},
+	{
+		"news_organization_name" : "Techmeme",		
+		"news_homepage_url" : "https://www.techmeme.com",
+		"news_domain" : "techmeme.com",
+		"news_domain_type" : "primary",
+		"news_lang_code" : "eng",
+		"country_code" : "us"	
+	},
+	{
+		"news_organization_name" : "Techdirt",		
+		"news_homepage_url" : "https://www.techdirt.com",
+		"news_domain" : "techdirt.com",
+		"news_domain_type" : "primary",
+		"news_lang_code" : "eng",
+		"country_code" : "us"	
+	},
+	{
+		"news_organization_name" : "BuzzFeed",		
+		"news_homepage_url" : "https://www.buzzfeed.com",
+		"news_domain" : "buzzfeed.com",
+		"news_domain_type" : "primary",
+		"news_lang_code" : "eng",
+		"country_code" : "us"	
+	},
+	{
+		"news_organization_name" : "Valleywag",		
+		"news_homepage_url" : "https://www.valleywag.com",
+		"news_domain" : "valleywag.com",
+		"news_domain_type" : "primary",
+		"news_lang_code" : "eng",
+		"country_code" : "us"	
+	},
+	{
+		"news_organization_name" : "AllThingsD",		
+		"news_homepage_url" : "https://www.allthingsd.com",
+		"news_domain" : "allthingsd.com",
+		"news_domain_type" : "primary",
+		"news_lang_code" : "eng",
+		"country_code" : "us"	
+	},
+	{
+		"news_organization_name" : "Re/code",		
+		"news_homepage_url" : "https://www.recode.net",
+		"news_domain" : "recode.net",
+		"news_domain_type" : "primary",
+		"news_lang_code" : "eng",
+		"country_code" : "us"	
+	},
+	{
+		"news_organization_name" : "Gawker",		
+		"news_homepage_url" : "https://www.gawker.com",
+		"news_domain" : "gawker.com",
+		"news_domain_type" : "primary",
+		"news_lang_code" : "eng",
+		"country_code" : "us"	
+	},
+	{
+		"news_organization_name" : "Pando",		
+		"news_homepage_url" : "https://www.pando.com",
+		"news_domain" : "pando.com",
+		"news_domain_type" : "primary",
+		"news_lang_code" : "eng",
+		"country_code" : "us"	
+	},
+	{
+		"news_organization_name" : "Pando",		
+		"news_homepage_url" : "https://www.pandodaily.com",
+		"news_domain" : "pandodaily.com",
+		"news_domain_type" : "alias",
+		"news_lang_code" : "eng",
+		"country_code" : "us"	
+	},
+	{
+		"news_organization_name" : "Wired",		
+		"news_homepage_url" : "https://www.wired.com",
+		"news_domain" : "wired.com",
+		"news_domain_type" : "primary",
+		"news_lang_code" : "eng",
+		"country_code" : "us"	
+	},
+	{
+		"news_organization_name" : "New York Times",		
+		"news_homepage_url" : "https://www.nytimes.com",
+		"news_domain" : "nytimes.com",
+		"news_domain_type" : "primary",
+		"news_lang_code" : "eng",
+		"country_code" : "us"	
+	},
+	{
+		"news_organization_name" : "Engadget",		
+		"news_homepage_url" : "https://www.engadget.com",
+		"news_domain" : "engadget.com",
+		"news_domain_type" : "primary",
+		"news_lang_code" : "eng",
+		"country_code" : "us"	
+	},
+	{
+		"news_organization_name" : "The Wall Street Journal",		
+		"news_homepage_url" : "https://www.wsj.com",
+		"news_domain" : "wsj.com",
+		"news_domain_type" : "primary",
+		"news_lang_code" : "eng",
+		"country_code" : "us"	
+	},
+	{
+		"news_organization_name" : "Gizmodo",		
+		"news_homepage_url" : "https://www.gizmodo.com",
+		"news_domain" : "gizmodo.com",
+		"news_domain_type" : "primary",
+		"news_lang_code" : "eng",
+		"country_code" : "us"	
+	},
+	{
+		"news_organization_name" : "NPR",		
+		"news_homepage_url" : "https://www.npr.org",
+		"news_domain" : "npr.org",
+		"news_domain_type" : "primary",
+		"news_lang_code" : "eng",
+		"country_code" : "us"	
+	},
+	{
+		"news_organization_name" : "Entrepreneur",		
+		"news_homepage_url" : "https://www.entrepreneur.com",
+		"news_domain" : "entrepreneur.com",
+		"news_domain_type" : "primary",
+		"news_lang_code" : "eng",
+		"country_code" : "us"	
+	},
+	{
+		"news_organization_name" : "Fast Company",		
+		"news_homepage_url" : "https://www.fast.co",
+		"news_domain" : "fast.co",
+		"news_domain_type" : "primary",
+		"news_lang_code" : "eng",
+		"country_code" : "us"	
+	},
+	{
+		"news_organization_name" : "BBC",		
+		"news_homepage_url" : "https://www.bbc.com",
+		"news_domain" : "bbc.com",
+		"news_domain_type" : "primary",
+		"news_lang_code" : "eng",
+		"country_code" : "uk"	
+	},
+	{
+		"news_organization_name" : "Ars Technica",		
+		"news_homepage_url" : "https://www.arstechnica.com",
+		"news_domain" : "arstechnica.com",
+		"news_domain_type" : "primary",
+		"news_lang_code" : "eng",
+		"country_code" : "us"	
+	},
+	{
+		"news_organization_name" : "Ars Technica",		
+		"news_homepage_url" : "https://www.arstechnica.com",
+		"news_domain" : "arstechnica.com",
+		"news_domain_type" : "primary",
+		"news_lang_code" : "eng",
+		"country_code" : "us"	
+	},
+	{
+		"news_organization_name" : "PC Magazine",		
+		"news_homepage_url" : "https://www.pcmag.com",
+		"news_domain" : "pcmag.com",
+		"news_domain_type" : "primary",
+		"news_lang_code" : "eng",
+		"country_code" : "us"	
+	},
+	{
+		"news_organization_name" : "CNET",		
+		"news_homepage_url" : "https://www.cnet.com",
+		"news_domain" : "cnet.com",
+		"news_domain_type" : "primary",
+		"news_lang_code" : "eng",
+		"country_code" : "us"	
+	}
+]
